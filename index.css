@@ -1,0 +1,61 @@
+.top {
+    height: 10%;
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    top: 0%;
+}
+
+.paragraph {
+    background-color:rgb(248, 248, 248);
+    height: 30%;
+    width: 100%;
+    position: fixed;
+    top:10%
+}
+
+.blue {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 40%;
+    background-color: blue;
+}
+
+.green {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 55%;
+    background-color: rgb(87, 180, 87);
+}
+
+.lightgreen {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 70%;
+    background-color: rgb(149, 197, 44);
+}
+
+.yellow {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 85%;
+    background-color: rgb(203, 206, 73); 
+}
+
+.bluebox {
+    display: inline-block;
+    background-color: blue;
+    height:50% ;
+    width: 3%;
+    position: relative;
+    top: 25%;
+    left: 3%;
+}
+
+p {
+    border: 1% 1% 5% 1%;
+}
